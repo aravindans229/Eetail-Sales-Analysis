@@ -1,2 +1,2 @@
-# Eetail-Sales-Analysis
+# Retail-Sales-Analysis
 sales-analysis
